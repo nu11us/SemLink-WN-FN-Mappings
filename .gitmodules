@@ -1,0 +1,6 @@
+[submodule "semlink"]
+	path = semlink
+	url = https://github.com/cu-clear/semlink
+[submodule "verbnet"]
+	path = verbnet
+	url = https://github.com/cu-clear/verbnet
